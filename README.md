@@ -36,3 +36,8 @@ Append character 'b' to "p" at a cost of 1 dollar, p = "ab".
 Append substring 'ab' to "p" at no cost, p = "abab".
 
 Because the total cost of all operations is 1 + 1 = 2 dollars, we print 2 on a new line.
+
+
+## Note
+
+Challenge from World CodeSprint5
